@@ -10,11 +10,11 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "body-parser": "^1.20.8",
+      "body-parser": "^1.20.9",
       "express": "^4.22.3",
       "fs": "^0.0.1-security",
       "libxmljs": "^1.0.9",
-      "multer": "^2.4.0",
+      "multer": "^2.5.0",
       "path": "^0.12.7"
     },
     "devDependencies": {
